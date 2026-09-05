@@ -134,7 +134,8 @@ The attacker enumerated a local Windows group, which could be used to identify a
 
 Authentication and Windows event data were also correlated to identify the workstation associated with the malicious session.
 
-### [Insert Screenshot 4 – Discovery activity / workstation information]
+<img width="2800" height="1146" alt="image" src="https://github.com/user-attachments/assets/d3a04205-c017-40c3-87bc-f745041e792d" />
+
 
 ## Persistence Investigation Findings
 
