@@ -90,7 +90,8 @@ Analysis of subsequent events revealed additional post-compromise activity, incl
 
 The creation of another account could allow the attacker to maintain access even if the originally compromised credentials were disabled or reset.
 
-### [Insert Screenshot 2 – Successful authentication / post-compromise activity]
+<img width="2800" height="1106" alt="image" src="https://github.com/user-attachments/assets/1755b7a0-7507-4e70-8b35-e0de757ff4f7" />
+
 
 ## Initial Access Findings
 
