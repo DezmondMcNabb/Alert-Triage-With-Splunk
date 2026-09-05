@@ -185,7 +185,8 @@ User-Agent information provided another indicator that could be used to isolate 
 
 The presence of repeated requests to the web shell demonstrated that the malicious file was actively being used rather than simply uploaded to the server.
 
-### [Insert Screenshot 6 – Web shell HTTP requests / User-Agent analysis]
+<img width="1952" height="668" alt="image" src="https://github.com/user-attachments/assets/1ef17f0f-7749-445d-82c1-830e47062446" />
+
 
 ## Web Shell Investigation Findings
 
