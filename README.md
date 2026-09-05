@@ -123,7 +123,6 @@ Process creation events were then analyzed to understand the parent-child proces
 
 Examining these relationships provided additional context about how the scheduled task was created and helped reconstruct the attacker's execution chain.
 
-### [Insert Screenshot 3 – Scheduled task and process investigation]
 
 ---
 
