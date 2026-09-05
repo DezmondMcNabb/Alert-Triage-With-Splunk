@@ -1,7 +1,5 @@
 [TryHackMe – Alert Triage With Splunk.md](https://github.com/user-attachments/files/31869014/TryHackMe.Alert.Triage.With.Splunk.md)
-# Alert-Triage-With-Splunk
-TryHackMe – Alert Triage With Splunk
-# TryHackMe – Alert Triage With Splunk
+# Alert Triage With Splunk
 
 ## Overview
 
