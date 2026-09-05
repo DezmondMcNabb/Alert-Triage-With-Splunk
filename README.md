@@ -171,8 +171,6 @@ After obtaining access, the attacker deployed and interacted with a web shell on
 
 Splunk was used to isolate requests associated with the malicious resource and analyze the attacker's interaction with it.
 
-### [Insert Screenshot 5 – Hydra brute-force / web shell activity]
-
 ---
 
 ## HTTP Traffic Analysis
