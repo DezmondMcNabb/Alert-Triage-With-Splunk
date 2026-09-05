@@ -71,7 +71,8 @@ The high number of authentication failures against a single account strongly ind
 
 Further analysis of the timestamps established the duration of the attack and helped construct a timeline of the authentication activity.
 
-### [Insert Screenshot 1 – Failed SSH authentication activity in Splunk]
+<img width="2774" height="916" alt="image" src="https://github.com/user-attachments/assets/e364d83f-db50-4573-aad6-90ee27b36b97" />
+
 
 ---
 
